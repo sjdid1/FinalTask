@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[5] {"45gg", "12", "1234", "3d", "5"};
+﻿string[] array1 = new string[4] {"hello", "2", "world", ":-)"};
 string[] array2 = new string[array1.Length];
 
 void DesiredArray(string[] arr1, string[] arr2)
